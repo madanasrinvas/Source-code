@@ -1,0 +1,1729 @@
+Particle Swarm Optimization Algorithm
+Parameters
+MAX_LENGTH/N: 4
+STARTING_POPULATION: 40
+MAX_EPOCHS: 1000
+MAX_VELOCITY: 4.0
+MINIMUM_SHUFFLES: 8
+MAXIMUM_SHUFFLES: 20
+
+Run: 1
+Runtime in nanoseconds: 12117500
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 2
+Runtime in nanoseconds: 3313000
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 3
+Runtime in nanoseconds: 4042600
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 4
+Runtime in nanoseconds: 2257500
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 5
+Runtime in nanoseconds: 1446800
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 6
+Runtime in nanoseconds: 1896400
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 7
+Runtime in nanoseconds: 3613400
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 8
+Runtime in nanoseconds: 938500
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 9
+Runtime in nanoseconds: 6418200
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 10
+Runtime in nanoseconds: 4239000
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 11
+Runtime in nanoseconds: 2104900
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 12
+Runtime in nanoseconds: 1223600
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 13
+Runtime in nanoseconds: 823300
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 14
+Runtime in nanoseconds: 904000
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 15
+Runtime in nanoseconds: 1714500
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 16
+Runtime in nanoseconds: 788900
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 17
+Runtime in nanoseconds: 537000
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 18
+Runtime in nanoseconds: 337400
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 19
+Runtime in nanoseconds: 547600
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 20
+Runtime in nanoseconds: 303800
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 21
+Runtime in nanoseconds: 668300
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 22
+Runtime in nanoseconds: 2308800
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 23
+Runtime in nanoseconds: 384500
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 24
+Runtime in nanoseconds: 1764600
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 25
+Runtime in nanoseconds: 693100
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 26
+Runtime in nanoseconds: 1510800
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 27
+Runtime in nanoseconds: 1205600
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 28
+Runtime in nanoseconds: 2478700
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 29
+Runtime in nanoseconds: 915700
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 30
+Runtime in nanoseconds: 978200
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 31
+Runtime in nanoseconds: 1193100
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 32
+Runtime in nanoseconds: 711500
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 33
+Runtime in nanoseconds: 774900
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 34
+Runtime in nanoseconds: 2423600
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 35
+Runtime in nanoseconds: 913100
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 36
+Runtime in nanoseconds: 1671400
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 37
+Runtime in nanoseconds: 939500
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 38
+Runtime in nanoseconds: 834100
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 39
+Runtime in nanoseconds: 836900
+Found at epoch: 2
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 40
+Runtime in nanoseconds: 512200
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 41
+Runtime in nanoseconds: 652100
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 42
+Runtime in nanoseconds: 1163300
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 43
+Runtime in nanoseconds: 1326400
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 44
+Runtime in nanoseconds: 2097600
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 45
+Runtime in nanoseconds: 1071000
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 46
+Runtime in nanoseconds: 2238900
+Found at epoch: 1
+Population size: 40
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 47
+Runtime in nanoseconds: 1223000
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Run: 48
+Runtime in nanoseconds: 1551400
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 49
+Runtime in nanoseconds: 1319900
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+Run: 50
+Runtime in nanoseconds: 2526700
+Found at epoch: 1
+Population size: 40
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+Runtime summary
+
+12117500
+3313000
+4042600
+2257500
+1446800
+1896400
+3613400
+938500
+6418200
+4239000
+2104900
+1223600
+823300
+904000
+1714500
+788900
+537000
+337400
+547600
+303800
+668300
+2308800
+384500
+1764600
+693100
+1510800
+1205600
+2478700
+915700
+978200
+1193100
+711500
+774900
+2423600
+913100
+1671400
+939500
+834100
+836900
+512200
+652100
+1163300
+1326400
+2097600
+1071000
+2238900
+1223000
+1551400
+1319900
+2526700
+23315027729800
+23315127454500
+99724700
